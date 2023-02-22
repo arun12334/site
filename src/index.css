@@ -1,0 +1,27 @@
+.header {
+  padding-left: 450px;
+  padding-top: 25px;
+
+}
+.header a{
+  text-decoration: none;
+
+}
+.copyright {
+  color: #33475B;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fff;
+  position: fixed;
+  bottom: 0;  
+  font-size: 24px;
+  box-shadow: rgb(80 80 80 / 18%) 0px 10px 15px 9px, rgb(0 0 0 / 0%) 0px 4px 6px -2px;
+  width: 100%;
+  color: blue;
+ 
+}
+.home{
+  text-transform: none !important
+  
+ }
